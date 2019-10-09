@@ -1,0 +1,16 @@
+{
+  "name": "my-plugin-guyy-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "my-plugin.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/guyy0423/my-plugin.git"
+  },
+  "keywords": [],
+  "author": "wendy",
+  "license": "ISC"
+}
